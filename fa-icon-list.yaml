@@ -1,0 +1,785 @@
+fa fa-500px: fa-500px
+fa fa-address-book: fa-address-book
+fa fa-address-book-o: fa-address-book-o
+fa fa-address-card: fa-address-card
+fa fa-address-card-o: fa-address-card-o
+fa fa-adjust: fa-adjust
+fa fa-adn: fa-adn
+fa fa-align-center: fa-align-center
+fa fa-align-justify: fa-align-justify
+fa fa-align-left: fa-align-left
+fa fa-align-right: fa-align-right
+fa fa-amazon: fa-amazon
+fa fa-ambulance: fa-ambulance
+fa fa-american-sign-language-interpreting: fa-american-sign-language-interpreting
+fa fa-anchor: fa-anchor
+fa fa-android: fa-android
+fa fa-angellist: fa-angellist
+fa fa-angle-double-down: fa-angle-double-down
+fa fa-angle-double-left: fa-angle-double-left
+fa fa-angle-double-right: fa-angle-double-right
+fa fa-angle-double-up: fa-angle-double-up
+fa fa-angle-down: fa-angle-down
+fa fa-angle-left: fa-angle-left
+fa fa-angle-right: fa-angle-right
+fa fa-angle-up: fa-angle-up
+fa fa-apple: fa-apple
+fa fa-archive: fa-archive
+fa fa-area-chart: fa-area-chart
+fa fa-arrow-circle-down: fa-arrow-circle-down
+fa fa-arrow-circle-left: fa-arrow-circle-left
+fa fa-arrow-circle-o-down: fa-arrow-circle-o-down
+fa fa-arrow-circle-o-left: fa-arrow-circle-o-left
+fa fa-arrow-circle-o-right: fa-arrow-circle-o-right
+fa fa-arrow-circle-o-up: fa-arrow-circle-o-up
+fa fa-arrow-circle-right: fa-arrow-circle-right
+fa fa-arrow-circle-up: fa-arrow-circle-up
+fa fa-arrow-down: fa-arrow-down
+fa fa-arrow-left: fa-arrow-left
+fa fa-arrow-right: fa-arrow-right
+fa fa-arrow-up: fa-arrow-up
+fa fa-arrows: fa-arrows
+fa fa-arrows-alt: fa-arrows-alt
+fa fa-arrows-h: fa-arrows-h
+fa fa-arrows-v: fa-arrows-v
+fa fa-asl-interpreting (alias): fa-asl-interpreting (alias)
+fa fa-assistive-listening-systems: fa-assistive-listening-systems
+fa fa-asterisk: fa-asterisk
+fa fa-at: fa-at
+fa fa-audio-description: fa-audio-description
+fa fa-automobile (alias): fa-automobile (alias)
+fa fa-backward: fa-backward
+fa fa-balance-scale: fa-balance-scale
+fa fa-ban: fa-ban
+fa fa-bandcamp: fa-bandcamp
+fa fa-bank (alias): fa-bank (alias)
+fa fa-bar-chart: fa-bar-chart
+fa fa-bar-chart-o (alias): fa-bar-chart-o (alias)
+fa fa-barcode: fa-barcode
+fa fa-bars: fa-bars
+fa fa-bath: fa-bath
+fa fa-bathtub (alias): fa-bathtub (alias)
+fa fa-battery (alias): fa-battery (alias)
+fa fa-battery-0 (alias): fa-battery-0 (alias)
+fa fa-battery-1 (alias): fa-battery-1 (alias)
+fa fa-battery-2 (alias): fa-battery-2 (alias)
+fa fa-battery-3 (alias): fa-battery-3 (alias)
+fa fa-battery-4 (alias): fa-battery-4 (alias)
+fa fa-battery-empty: fa-battery-empty
+fa fa-battery-full: fa-battery-full
+fa fa-battery-half: fa-battery-half
+fa fa-battery-quarter: fa-battery-quarter
+fa fa-battery-three-quarters: fa-battery-three-quarters
+fa fa-bed: fa-bed
+fa fa-beer: fa-beer
+fa fa-behance: fa-behance
+fa fa-behance-square: fa-behance-square
+fa fa-bell: fa-bell
+fa fa-bell-o: fa-bell-o
+fa fa-bell-slash: fa-bell-slash
+fa fa-bell-slash-o: fa-bell-slash-o
+fa fa-bicycle: fa-bicycle
+fa fa-binoculars: fa-binoculars
+fa fa-birthday-cake: fa-birthday-cake
+fa fa-bitbucket: fa-bitbucket
+fa fa-bitbucket-square: fa-bitbucket-square
+fa fa-bitcoin (alias): fa-bitcoin (alias)
+fa fa-black-tie: fa-black-tie
+fa fa-blind: fa-blind
+fa fa-bluetooth: fa-bluetooth
+fa fa-bluetooth-b: fa-bluetooth-b
+fa fa-bold: fa-bold
+fa fa-bolt: fa-bolt
+fa fa-bomb: fa-bomb
+fa fa-book: fa-book
+fa fa-bookmark: fa-bookmark
+fa fa-bookmark-o: fa-bookmark-o
+fa fa-braille: fa-braille
+fa fa-briefcase: fa-briefcase
+fa fa-btc: fa-btc
+fa fa-bug: fa-bug
+fa fa-building: fa-building
+fa fa-building-o: fa-building-o
+fa fa-bullhorn: fa-bullhorn
+fa fa-bullseye: fa-bullseye
+fa fa-bus: fa-bus
+fa fa-buysellads: fa-buysellads
+fa fa-cab (alias): fa-cab (alias)
+fa fa-calculator: fa-calculator
+fa fa-calendar: fa-calendar
+fa fa-calendar-check-o: fa-calendar-check-o
+fa fa-calendar-minus-o: fa-calendar-minus-o
+fa fa-calendar-o: fa-calendar-o
+fa fa-calendar-plus-o: fa-calendar-plus-o
+fa fa-calendar-times-o: fa-calendar-times-o
+fa fa-camera: fa-camera
+fa fa-camera-retro: fa-camera-retro
+fa fa-car: fa-car
+fa fa-caret-down: fa-caret-down
+fa fa-caret-left: fa-caret-left
+fa fa-caret-right: fa-caret-right
+fa fa-caret-square-o-down: fa-caret-square-o-down
+fa fa-caret-square-o-left: fa-caret-square-o-left
+fa fa-caret-square-o-right: fa-caret-square-o-right
+fa fa-caret-square-o-up: fa-caret-square-o-up
+fa fa-caret-up: fa-caret-up
+fa fa-cart-arrow-down: fa-cart-arrow-down
+fa fa-cart-plus: fa-cart-plus
+fa fa-cc: fa-cc
+fa fa-cc-amex: fa-cc-amex
+fa fa-cc-diners-club: fa-cc-diners-club
+fa fa-cc-discover: fa-cc-discover
+fa fa-cc-jcb: fa-cc-jcb
+fa fa-cc-mastercard: fa-cc-mastercard
+fa fa-cc-paypal: fa-cc-paypal
+fa fa-cc-stripe: fa-cc-stripe
+fa fa-cc-visa: fa-cc-visa
+fa fa-certificate: fa-certificate
+fa fa-chain (alias): fa-chain (alias)
+fa fa-chain-broken: fa-chain-broken
+fa fa-check: fa-check
+fa fa-check-circle: fa-check-circle
+fa fa-check-circle-o: fa-check-circle-o
+fa fa-check-square: fa-check-square
+fa fa-check-square-o: fa-check-square-o
+fa fa-chevron-circle-down: fa-chevron-circle-down
+fa fa-chevron-circle-left: fa-chevron-circle-left
+fa fa-chevron-circle-right: fa-chevron-circle-right
+fa fa-chevron-circle-up: fa-chevron-circle-up
+fa fa-chevron-down: fa-chevron-down
+fa fa-chevron-left: fa-chevron-left
+fa fa-chevron-right: fa-chevron-right
+fa fa-chevron-up: fa-chevron-up
+fa fa-child: fa-child
+fa fa-chrome: fa-chrome
+fa fa-circle: fa-circle
+fa fa-circle-o: fa-circle-o
+fa fa-circle-o-notch: fa-circle-o-notch
+fa fa-circle-thin: fa-circle-thin
+fa fa-clipboard: fa-clipboard
+fa fa-clock-o: fa-clock-o
+fa fa-clone: fa-clone
+fa fa-close (alias): fa-close (alias)
+fa fa-cloud: fa-cloud
+fa fa-cloud-download: fa-cloud-download
+fa fa-cloud-upload: fa-cloud-upload
+fa fa-cny (alias): fa-cny (alias)
+fa fa-code: fa-code
+fa fa-code-fork: fa-code-fork
+fa fa-codepen: fa-codepen
+fa fa-codiepie: fa-codiepie
+fa fa-coffee: fa-coffee
+fa fa-cog: fa-cog
+fa fa-cogs: fa-cogs
+fa fa-columns: fa-columns
+fa fa-comment: fa-comment
+fa fa-comment-o: fa-comment-o
+fa fa-commenting: fa-commenting
+fa fa-commenting-o: fa-commenting-o
+fa fa-comments: fa-comments
+fa fa-comments-o: fa-comments-o
+fa fa-compass: fa-compass
+fa fa-compress: fa-compress
+fa fa-connectdevelop: fa-connectdevelop
+fa fa-contao: fa-contao
+fa fa-copy (alias): fa-copy (alias)
+fa fa-copyright: fa-copyright
+fa fa-creative-commons: fa-creative-commons
+fa fa-credit-card: fa-credit-card
+fa fa-credit-card-alt: fa-credit-card-alt
+fa fa-crop: fa-crop
+fa fa-crosshairs: fa-crosshairs
+fa fa-css3: fa-css3
+fa fa-cube: fa-cube
+fa fa-cubes: fa-cubes
+fa fa-cut (alias): fa-cut (alias)
+fa fa-cutlery: fa-cutlery
+fa fa-dashboard (alias): fa-dashboard (alias)
+fa fa-dashcube: fa-dashcube
+fa fa-database: fa-database
+fa fa-deaf: fa-deaf
+fa fa-deafness (alias): fa-deafness (alias)
+fa fa-dedent (alias): fa-dedent (alias)
+fa fa-delicious: fa-delicious
+fa fa-desktop: fa-desktop
+fa fa-deviantart: fa-deviantart
+fa fa-diamond: fa-diamond
+fa fa-digg: fa-digg
+fa fa-dollar (alias): fa-dollar (alias)
+fa fa-dot-circle-o: fa-dot-circle-o
+fa fa-download: fa-download
+fa fa-dribbble: fa-dribbble
+fa fa-drivers-license (alias): fa-drivers-license (alias)
+fa fa-drivers-license-o (alias): fa-drivers-license-o (alias)
+fa fa-dropbox: fa-dropbox
+fa fa-drupal: fa-drupal
+fa fa-edge: fa-edge
+fa fa-edit (alias): fa-edit (alias)
+fa fa-eercast: fa-eercast
+fa fa-eject: fa-eject
+fa fa-ellipsis-h: fa-ellipsis-h
+fa fa-ellipsis-v: fa-ellipsis-v
+fa fa-empire: fa-empire
+fa fa-envelope: fa-envelope
+fa fa-envelope-o: fa-envelope-o
+fa fa-envelope-open: fa-envelope-open
+fa fa-envelope-open-o: fa-envelope-open-o
+fa fa-envelope-square: fa-envelope-square
+fa fa-envira: fa-envira
+fa fa-eraser: fa-eraser
+fa fa-etsy: fa-etsy
+fa fa-eur: fa-eur
+fa fa-euro (alias): fa-euro (alias)
+fa fa-exchange: fa-exchange
+fa fa-exclamation: fa-exclamation
+fa fa-exclamation-circle: fa-exclamation-circle
+fa fa-exclamation-triangle: fa-exclamation-triangle
+fa fa-expand: fa-expand
+fa fa-expeditedssl: fa-expeditedssl
+fa fa-external-link: fa-external-link
+fa fa-external-link-square: fa-external-link-square
+fa fa-eye: fa-eye
+fa fa-eye-slash: fa-eye-slash
+fa fa-eyedropper: fa-eyedropper
+fa fa-fa (alias): fa-fa (alias)
+fa fa-facebook: fa-facebook
+fa fa-facebook-f (alias): fa-facebook-f (alias)
+fa fa-facebook-official: fa-facebook-official
+fa fa-facebook-square: fa-facebook-square
+fa fa-fast-backward: fa-fast-backward
+fa fa-fast-forward: fa-fast-forward
+fa fa-fax: fa-fax
+fa fa-feed (alias): fa-feed (alias)
+fa fa-female: fa-female
+fa fa-fighter-jet: fa-fighter-jet
+fa fa-file: fa-file
+fa fa-file-archive-o: fa-file-archive-o
+fa fa-file-audio-o: fa-file-audio-o
+fa fa-file-code-o: fa-file-code-o
+fa fa-file-excel-o: fa-file-excel-o
+fa fa-file-image-o: fa-file-image-o
+fa fa-file-movie-o (alias): fa-file-movie-o (alias)
+fa fa-file-o: fa-file-o
+fa fa-file-pdf-o: fa-file-pdf-o
+fa fa-file-photo-o (alias): fa-file-photo-o (alias)
+fa fa-file-picture-o (alias): fa-file-picture-o (alias)
+fa fa-file-powerpoint-o: fa-file-powerpoint-o
+fa fa-file-sound-o (alias): fa-file-sound-o (alias)
+fa fa-file-text: fa-file-text
+fa fa-file-text-o: fa-file-text-o
+fa fa-file-video-o: fa-file-video-o
+fa fa-file-word-o: fa-file-word-o
+fa fa-file-zip-o (alias): fa-file-zip-o (alias)
+fa fa-files-o: fa-files-o
+fa fa-film: fa-film
+fa fa-filter: fa-filter
+fa fa-fire: fa-fire
+fa fa-fire-extinguisher: fa-fire-extinguisher
+fa fa-firefox: fa-firefox
+fa fa-first-order: fa-first-order
+fa fa-flag: fa-flag
+fa fa-flag-checkered: fa-flag-checkered
+fa fa-flag-o: fa-flag-o
+fa fa-flash (alias): fa-flash (alias)
+fa fa-flask: fa-flask
+fa fa-flickr: fa-flickr
+fa fa-floppy-o: fa-floppy-o
+fa fa-folder: fa-folder
+fa fa-folder-o: fa-folder-o
+fa fa-folder-open: fa-folder-open
+fa fa-folder-open-o: fa-folder-open-o
+fa fa-font: fa-font
+fa fa-font-awesome: fa-font-awesome
+fa fa-fonticons: fa-fonticons
+fa fa-fort-awesome: fa-fort-awesome
+fa fa-forumbee: fa-forumbee
+fa fa-forward: fa-forward
+fa fa-foursquare: fa-foursquare
+fa fa-free-code-camp: fa-free-code-camp
+fa fa-frown-o: fa-frown-o
+fa fa-futbol-o: fa-futbol-o
+fa fa-gamepad: fa-gamepad
+fa fa-gavel: fa-gavel
+fa fa-gbp: fa-gbp
+fa fa-ge (alias): fa-ge (alias)
+fa fa-gear (alias): fa-gear (alias)
+fa fa-gears (alias): fa-gears (alias)
+fa fa-genderless: fa-genderless
+fa fa-get-pocket: fa-get-pocket
+fa fa-gg: fa-gg
+fa fa-gg-circle: fa-gg-circle
+fa fa-gift: fa-gift
+fa fa-git: fa-git
+fa fa-git-square: fa-git-square
+fa fa-github: fa-github
+fa fa-github-alt: fa-github-alt
+fa fa-github-square: fa-github-square
+fa fa-gitlab: fa-gitlab
+fa fa-gittip (alias): fa-gittip (alias)
+fa fa-glass: fa-glass
+fa fa-glide: fa-glide
+fa fa-glide-g: fa-glide-g
+fa fa-globe: fa-globe
+fa fa-google: fa-google
+fa fa-google-plus: fa-google-plus
+fa fa-google-plus-circle (alias): fa-google-plus-circle (alias)
+fa fa-google-plus-official: fa-google-plus-official
+fa fa-google-plus-square: fa-google-plus-square
+fa fa-google-wallet: fa-google-wallet
+fa fa-graduation-cap: fa-graduation-cap
+fa fa-gratipay: fa-gratipay
+fa fa-grav: fa-grav
+fa fa-group (alias): fa-group (alias)
+fa fa-h-square: fa-h-square
+fa fa-hacker-news: fa-hacker-news
+fa fa-hand-grab-o (alias): fa-hand-grab-o (alias)
+fa fa-hand-lizard-o: fa-hand-lizard-o
+fa fa-hand-o-down: fa-hand-o-down
+fa fa-hand-o-left: fa-hand-o-left
+fa fa-hand-o-right: fa-hand-o-right
+fa fa-hand-o-up: fa-hand-o-up
+fa fa-hand-paper-o: fa-hand-paper-o
+fa fa-hand-peace-o: fa-hand-peace-o
+fa fa-hand-pointer-o: fa-hand-pointer-o
+fa fa-hand-rock-o: fa-hand-rock-o
+fa fa-hand-scissors-o: fa-hand-scissors-o
+fa fa-hand-spock-o: fa-hand-spock-o
+fa fa-hand-stop-o (alias): fa-hand-stop-o (alias)
+fa fa-handshake-o: fa-handshake-o
+fa fa-hard-of-hearing (alias): fa-hard-of-hearing (alias)
+fa fa-hashtag: fa-hashtag
+fa fa-hdd-o: fa-hdd-o
+fa fa-header: fa-header
+fa fa-headphones: fa-headphones
+fa fa-heart: fa-heart
+fa fa-heart-o: fa-heart-o
+fa fa-heartbeat: fa-heartbeat
+fa fa-history: fa-history
+fa fa-home: fa-home
+fa fa-hospital-o: fa-hospital-o
+fa fa-hotel (alias): fa-hotel (alias)
+fa fa-hourglass: fa-hourglass
+fa fa-hourglass-1 (alias): fa-hourglass-1 (alias)
+fa fa-hourglass-2 (alias): fa-hourglass-2 (alias)
+fa fa-hourglass-3 (alias): fa-hourglass-3 (alias)
+fa fa-hourglass-end: fa-hourglass-end
+fa fa-hourglass-half: fa-hourglass-half
+fa fa-hourglass-o: fa-hourglass-o
+fa fa-hourglass-start: fa-hourglass-start
+fa fa-houzz: fa-houzz
+fa fa-html5: fa-html5
+fa fa-i-cursor: fa-i-cursor
+fa fa-id-badge: fa-id-badge
+fa fa-id-card: fa-id-card
+fa fa-id-card-o: fa-id-card-o
+fa fa-ils: fa-ils
+fa fa-image (alias): fa-image (alias)
+fa fa-imdb: fa-imdb
+fa fa-inbox: fa-inbox
+fa fa-indent: fa-indent
+fa fa-industry: fa-industry
+fa fa-info: fa-info
+fa fa-info-circle: fa-info-circle
+fa fa-inr: fa-inr
+fa fa-instagram: fa-instagram
+fa fa-institution (alias): fa-institution (alias)
+fa fa-internet-explorer: fa-internet-explorer
+fa fa-intersex (alias): fa-intersex (alias)
+fa fa-ioxhost: fa-ioxhost
+fa fa-italic: fa-italic
+fa fa-joomla: fa-joomla
+fa fa-jpy: fa-jpy
+fa fa-jsfiddle: fa-jsfiddle
+fa fa-key: fa-key
+fa fa-keyboard-o: fa-keyboard-o
+fa fa-krw: fa-krw
+fa fa-language: fa-language
+fa fa-laptop: fa-laptop
+fa fa-lastfm: fa-lastfm
+fa fa-lastfm-square: fa-lastfm-square
+fa fa-leaf: fa-leaf
+fa fa-leanpub: fa-leanpub
+fa fa-legal (alias): fa-legal (alias)
+fa fa-lemon-o: fa-lemon-o
+fa fa-level-down: fa-level-down
+fa fa-level-up: fa-level-up
+fa fa-life-bouy (alias): fa-life-bouy (alias)
+fa fa-life-buoy (alias): fa-life-buoy (alias)
+fa fa-life-ring: fa-life-ring
+fa fa-life-saver (alias): fa-life-saver (alias)
+fa fa-lightbulb-o: fa-lightbulb-o
+fa fa-line-chart: fa-line-chart
+fa fa-link: fa-link
+fa fa-linkedin: fa-linkedin
+fa fa-linkedin-square: fa-linkedin-square
+fa fa-linode: fa-linode
+fa fa-linux: fa-linux
+fa fa-list: fa-list
+fa fa-list-alt: fa-list-alt
+fa fa-list-ol: fa-list-ol
+fa fa-list-ul: fa-list-ul
+fa fa-location-arrow: fa-location-arrow
+fa fa-lock: fa-lock
+fa fa-long-arrow-down: fa-long-arrow-down
+fa fa-long-arrow-left: fa-long-arrow-left
+fa fa-long-arrow-right: fa-long-arrow-right
+fa fa-long-arrow-up: fa-long-arrow-up
+fa fa-low-vision: fa-low-vision
+fa fa-magic: fa-magic
+fa fa-magnet: fa-magnet
+fa fa-mail-forward (alias): fa-mail-forward (alias)
+fa fa-mail-reply (alias): fa-mail-reply (alias)
+fa fa-mail-reply-all (alias): fa-mail-reply-all (alias)
+fa fa-male: fa-male
+fa fa-map: fa-map
+fa fa-map-marker: fa-map-marker
+fa fa-map-o: fa-map-o
+fa fa-map-pin: fa-map-pin
+fa fa-map-signs: fa-map-signs
+fa fa-mars: fa-mars
+fa fa-mars-double: fa-mars-double
+fa fa-mars-stroke: fa-mars-stroke
+fa fa-mars-stroke-h: fa-mars-stroke-h
+fa fa-mars-stroke-v: fa-mars-stroke-v
+fa fa-maxcdn: fa-maxcdn
+fa fa-meanpath: fa-meanpath
+fa fa-medium: fa-medium
+fa fa-medkit: fa-medkit
+fa fa-meetup: fa-meetup
+fa fa-meh-o: fa-meh-o
+fa fa-mercury: fa-mercury
+fa fa-microchip: fa-microchip
+fa fa-microphone: fa-microphone
+fa fa-microphone-slash: fa-microphone-slash
+fa fa-minus: fa-minus
+fa fa-minus-circle: fa-minus-circle
+fa fa-minus-square: fa-minus-square
+fa fa-minus-square-o: fa-minus-square-o
+fa fa-mixcloud: fa-mixcloud
+fa fa-mobile: fa-mobile
+fa fa-mobile-phone (alias): fa-mobile-phone (alias)
+fa fa-modx: fa-modx
+fa fa-money: fa-money
+fa fa-moon-o: fa-moon-o
+fa fa-mortar-board (alias): fa-mortar-board (alias)
+fa fa-motorcycle: fa-motorcycle
+fa fa-mouse-pointer: fa-mouse-pointer
+fa fa-music: fa-music
+fa fa-navicon (alias): fa-navicon (alias)
+fa fa-neuter: fa-neuter
+fa fa-newspaper-o: fa-newspaper-o
+fa fa-object-group: fa-object-group
+fa fa-object-ungroup: fa-object-ungroup
+fa fa-odnoklassniki: fa-odnoklassniki
+fa fa-odnoklassniki-square: fa-odnoklassniki-square
+fa fa-opencart: fa-opencart
+fa fa-openid: fa-openid
+fa fa-opera: fa-opera
+fa fa-optin-monster: fa-optin-monster
+fa fa-outdent: fa-outdent
+fa fa-pagelines: fa-pagelines
+fa fa-paint-brush: fa-paint-brush
+fa fa-paper-plane: fa-paper-plane
+fa fa-paper-plane-o: fa-paper-plane-o
+fa fa-paperclip: fa-paperclip
+fa fa-paragraph: fa-paragraph
+fa fa-paste (alias): fa-paste (alias)
+fa fa-pause: fa-pause
+fa fa-pause-circle: fa-pause-circle
+fa fa-pause-circle-o: fa-pause-circle-o
+fa fa-paw: fa-paw
+fa fa-paypal: fa-paypal
+fa fa-pencil: fa-pencil
+fa fa-pencil-square: fa-pencil-square
+fa fa-pencil-square-o: fa-pencil-square-o
+fa fa-percent: fa-percent
+fa fa-phone: fa-phone
+fa fa-phone-square: fa-phone-square
+fa fa-photo (alias): fa-photo (alias)
+fa fa-picture-o: fa-picture-o
+fa fa-pie-chart: fa-pie-chart
+fa fa-pied-piper: fa-pied-piper
+fa fa-pied-piper-alt: fa-pied-piper-alt
+fa fa-pied-piper-pp: fa-pied-piper-pp
+fa fa-pinterest: fa-pinterest
+fa fa-pinterest-p: fa-pinterest-p
+fa fa-pinterest-square: fa-pinterest-square
+fa fa-plane: fa-plane
+fa fa-play: fa-play
+fa fa-play-circle: fa-play-circle
+fa fa-play-circle-o: fa-play-circle-o
+fa fa-plug: fa-plug
+fa fa-plus: fa-plus
+fa fa-plus-circle: fa-plus-circle
+fa fa-plus-square: fa-plus-square
+fa fa-plus-square-o: fa-plus-square-o
+fa fa-podcast: fa-podcast
+fa fa-power-off: fa-power-off
+fa fa-print: fa-print
+fa fa-product-hunt: fa-product-hunt
+fa fa-puzzle-piece: fa-puzzle-piece
+fa fa-qq: fa-qq
+fa fa-qrcode: fa-qrcode
+fa fa-question: fa-question
+fa fa-question-circle: fa-question-circle
+fa fa-question-circle-o: fa-question-circle-o
+fa fa-quora: fa-quora
+fa fa-quote-left: fa-quote-left
+fa fa-quote-right: fa-quote-right
+fa fa-ra (alias): fa-ra (alias)
+fa fa-random: fa-random
+fa fa-ravelry: fa-ravelry
+fa fa-rebel: fa-rebel
+fa fa-recycle: fa-recycle
+fa fa-reddit: fa-reddit
+fa fa-reddit-alien: fa-reddit-alien
+fa fa-reddit-square: fa-reddit-square
+fa fa-refresh: fa-refresh
+fa fa-registered: fa-registered
+fa fa-remove (alias): fa-remove (alias)
+fa fa-renren: fa-renren
+fa fa-reorder (alias): fa-reorder (alias)
+fa fa-repeat: fa-repeat
+fa fa-reply: fa-reply
+fa fa-reply-all: fa-reply-all
+fa fa-resistance (alias): fa-resistance (alias)
+fa fa-retweet: fa-retweet
+fa fa-rmb (alias): fa-rmb (alias)
+fa fa-road: fa-road
+fa fa-rocket: fa-rocket
+fa fa-rotate-left (alias): fa-rotate-left (alias)
+fa fa-rotate-right (alias): fa-rotate-right (alias)
+fa fa-rouble (alias): fa-rouble (alias)
+fa fa-rss: fa-rss
+fa fa-rss-square: fa-rss-square
+fa fa-rub: fa-rub
+fa fa-ruble (alias): fa-ruble (alias)
+fa fa-rupee (alias): fa-rupee (alias)
+fa fa-s15 (alias): fa-s15 (alias)
+fa fa-safari: fa-safari
+fa fa-save (alias): fa-save (alias)
+fa fa-scissors: fa-scissors
+fa fa-scribd: fa-scribd
+fa fa-search: fa-search
+fa fa-search-minus: fa-search-minus
+fa fa-search-plus: fa-search-plus
+fa fa-sellsy: fa-sellsy
+fa fa-send (alias): fa-send (alias)
+fa fa-send-o (alias): fa-send-o (alias)
+fa fa-server: fa-server
+fa fa-share: fa-share
+fa fa-share-alt: fa-share-alt
+fa fa-share-alt-square: fa-share-alt-square
+fa fa-share-square: fa-share-square
+fa fa-share-square-o: fa-share-square-o
+fa fa-shekel (alias): fa-shekel (alias)
+fa fa-sheqel (alias): fa-sheqel (alias)
+fa fa-shield: fa-shield
+fa fa-ship: fa-ship
+fa fa-shirtsinbulk: fa-shirtsinbulk
+fa fa-shopping-bag: fa-shopping-bag
+fa fa-shopping-basket: fa-shopping-basket
+fa fa-shopping-cart: fa-shopping-cart
+fa fa-shower: fa-shower
+fa fa-sign-in: fa-sign-in
+fa fa-sign-language: fa-sign-language
+fa fa-sign-out: fa-sign-out
+fa fa-signal: fa-signal
+fa fa-signing (alias): fa-signing (alias)
+fa fa-simplybuilt: fa-simplybuilt
+fa fa-sitemap: fa-sitemap
+fa fa-skyatlas: fa-skyatlas
+fa fa-skype: fa-skype
+fa fa-slack: fa-slack
+fa fa-sliders: fa-sliders
+fa fa-slideshare: fa-slideshare
+fa fa-smile-o: fa-smile-o
+fa fa-snapchat: fa-snapchat
+fa fa-snapchat-ghost: fa-snapchat-ghost
+fa fa-snapchat-square: fa-snapchat-square
+fa fa-snowflake-o: fa-snowflake-o
+fa fa-soccer-ball-o (alias): fa-soccer-ball-o (alias)
+fa fa-sort: fa-sort
+fa fa-sort-alpha-asc: fa-sort-alpha-asc
+fa fa-sort-alpha-desc: fa-sort-alpha-desc
+fa fa-sort-amount-asc: fa-sort-amount-asc
+fa fa-sort-amount-desc: fa-sort-amount-desc
+fa fa-sort-asc: fa-sort-asc
+fa fa-sort-desc: fa-sort-desc
+fa fa-sort-down (alias): fa-sort-down (alias)
+fa fa-sort-numeric-asc: fa-sort-numeric-asc
+fa fa-sort-numeric-desc: fa-sort-numeric-desc
+fa fa-sort-up (alias): fa-sort-up (alias)
+fa fa-soundcloud: fa-soundcloud
+fa fa-space-shuttle: fa-space-shuttle
+fa fa-spinner: fa-spinner
+fa fa-spoon: fa-spoon
+fa fa-spotify: fa-spotify
+fa fa-square: fa-square
+fa fa-square-o: fa-square-o
+fa fa-stack-exchange: fa-stack-exchange
+fa fa-stack-overflow: fa-stack-overflow
+fa fa-star: fa-star
+fa fa-star-half: fa-star-half
+fa fa-star-half-empty (alias): fa-star-half-empty (alias)
+fa fa-star-half-full (alias): fa-star-half-full (alias)
+fa fa-star-half-o: fa-star-half-o
+fa fa-star-o: fa-star-o
+fa fa-steam: fa-steam
+fa fa-steam-square: fa-steam-square
+fa fa-step-backward: fa-step-backward
+fa fa-step-forward: fa-step-forward
+fa fa-stethoscope: fa-stethoscope
+fa fa-sticky-note: fa-sticky-note
+fa fa-sticky-note-o: fa-sticky-note-o
+fa fa-stop: fa-stop
+fa fa-stop-circle: fa-stop-circle
+fa fa-stop-circle-o: fa-stop-circle-o
+fa fa-street-view: fa-street-view
+fa fa-strikethrough: fa-strikethrough
+fa fa-stumbleupon: fa-stumbleupon
+fa fa-stumbleupon-circle: fa-stumbleupon-circle
+fa fa-subscript: fa-subscript
+fa fa-subway: fa-subway
+fa fa-suitcase: fa-suitcase
+fa fa-sun-o: fa-sun-o
+fa fa-superpowers: fa-superpowers
+fa fa-superscript: fa-superscript
+fa fa-support (alias): fa-support (alias)
+fa fa-table: fa-table
+fa fa-tablet: fa-tablet
+fa fa-tachometer: fa-tachometer
+fa fa-tag: fa-tag
+fa fa-tags: fa-tags
+fa fa-tasks: fa-tasks
+fa fa-taxi: fa-taxi
+fa fa-telegram: fa-telegram
+fa fa-television: fa-television
+fa fa-tencent-weibo: fa-tencent-weibo
+fa fa-terminal: fa-terminal
+fa fa-text-height: fa-text-height
+fa fa-text-width: fa-text-width
+fa fa-th: fa-th
+fa fa-th-large: fa-th-large
+fa fa-th-list: fa-th-list
+fa fa-themeisle: fa-themeisle
+fa fa-thermometer (alias): fa-thermometer (alias)
+fa fa-thermometer-0 (alias): fa-thermometer-0 (alias)
+fa fa-thermometer-1 (alias): fa-thermometer-1 (alias)
+fa fa-thermometer-2 (alias): fa-thermometer-2 (alias)
+fa fa-thermometer-3 (alias): fa-thermometer-3 (alias)
+fa fa-thermometer-4 (alias): fa-thermometer-4 (alias)
+fa fa-thermometer-empty: fa-thermometer-empty
+fa fa-thermometer-full: fa-thermometer-full
+fa fa-thermometer-half: fa-thermometer-half
+fa fa-thermometer-quarter: fa-thermometer-quarter
+fa fa-thermometer-three-quarters: fa-thermometer-three-quarters
+fa fa-thumb-tack: fa-thumb-tack
+fa fa-thumbs-down: fa-thumbs-down
+fa fa-thumbs-o-down: fa-thumbs-o-down
+fa fa-thumbs-o-up: fa-thumbs-o-up
+fa fa-thumbs-up: fa-thumbs-up
+fa fa-ticket: fa-ticket
+fa fa-times: fa-times
+fa fa-times-circle: fa-times-circle
+fa fa-times-circle-o: fa-times-circle-o
+fa fa-times-rectangle (alias): fa-times-rectangle (alias)
+fa fa-times-rectangle-o (alias): fa-times-rectangle-o (alias)
+fa fa-tint: fa-tint
+fa fa-toggle-down (alias): fa-toggle-down (alias)
+fa fa-toggle-left (alias): fa-toggle-left (alias)
+fa fa-toggle-off: fa-toggle-off
+fa fa-toggle-on: fa-toggle-on
+fa fa-toggle-right (alias): fa-toggle-right (alias)
+fa fa-toggle-up (alias): fa-toggle-up (alias)
+fa fa-trademark: fa-trademark
+fa fa-train: fa-train
+fa fa-transgender: fa-transgender
+fa fa-transgender-alt: fa-transgender-alt
+fa fa-trash: fa-trash
+fa fa-trash-o: fa-trash-o
+fa fa-tree: fa-tree
+fa fa-trello: fa-trello
+fa fa-tripadvisor: fa-tripadvisor
+fa fa-trophy: fa-trophy
+fa fa-truck: fa-truck
+fa fa-try: fa-try
+fa fa-tty: fa-tty
+fa fa-tumblr: fa-tumblr
+fa fa-tumblr-square: fa-tumblr-square
+fa fa-turkish-lira (alias): fa-turkish-lira (alias)
+fa fa-tv (alias): fa-tv (alias)
+fa fa-twitch: fa-twitch
+fa fa-twitter: fa-twitter
+fa fa-twitter-square: fa-twitter-square
+fa fa-umbrella: fa-umbrella
+fa fa-underline: fa-underline
+fa fa-undo: fa-undo
+fa fa-universal-access: fa-universal-access
+fa fa-university: fa-university
+fa fa-unlink (alias): fa-unlink (alias)
+fa fa-unlock: fa-unlock
+fa fa-unlock-alt: fa-unlock-alt
+fa fa-unsorted (alias): fa-unsorted (alias)
+fa fa-upload: fa-upload
+fa fa-usb: fa-usb
+fa fa-usd: fa-usd
+fa fa-user: fa-user
+fa fa-user-circle: fa-user-circle
+fa fa-user-circle-o: fa-user-circle-o
+fa fa-user-md: fa-user-md
+fa fa-user-o: fa-user-o
+fa fa-user-plus: fa-user-plus
+fa fa-user-secret: fa-user-secret
+fa fa-user-times: fa-user-times
+fa fa-users: fa-users
+fa fa-vcard (alias): fa-vcard (alias)
+fa fa-vcard-o (alias): fa-vcard-o (alias)
+fa fa-venus: fa-venus
+fa fa-venus-double: fa-venus-double
+fa fa-venus-mars: fa-venus-mars
+fa fa-viacoin: fa-viacoin
+fa fa-viadeo: fa-viadeo
+fa fa-viadeo-square: fa-viadeo-square
+fa fa-video-camera: fa-video-camera
+fa fa-vimeo: fa-vimeo
+fa fa-vimeo-square: fa-vimeo-square
+fa fa-vine: fa-vine
+fa fa-vk: fa-vk
+fa fa-volume-control-phone: fa-volume-control-phone
+fa fa-volume-down: fa-volume-down
+fa fa-volume-off: fa-volume-off
+fa fa-volume-up: fa-volume-up
+fa fa-warning (alias): fa-warning (alias)
+fa fa-wechat (alias): fa-wechat (alias)
+fa fa-weibo: fa-weibo
+fa fa-weixin: fa-weixin
+fa fa-whatsapp: fa-whatsapp
+fa fa-wheelchair: fa-wheelchair
+fa fa-wheelchair-alt: fa-wheelchair-alt
+fa fa-wifi: fa-wifi
+fa fa-wikipedia-w: fa-wikipedia-w
+fa fa-window-close: fa-window-close
+fa fa-window-close-o: fa-window-close-o
+fa fa-window-maximize: fa-window-maximize
+fa fa-window-minimize: fa-window-minimize
+fa fa-window-restore: fa-window-restore
+fa fa-windows: fa-windows
+fa fa-won (alias): fa-won (alias)
+fa fa-wordpress: fa-wordpress
+fa fa-wpbeginner: fa-wpbeginner
+fa fa-wpexplorer: fa-wpexplorer
+fa fa-wpforms: fa-wpforms
+fa fa-wrench: fa-wrench
+fa fa-xing: fa-xing
+fa fa-xing-square: fa-xing-square
+fa fa-y-combinator: fa-y-combinator
+fa fa-y-combinator-square (alias): fa-y-combinator-square (alias)
+fa fa-yahoo: fa-yahoo
+fa fa-yc (alias): fa-yc (alias)
+fa fa-yc-square (alias): fa-yc-square (alias)
+fa fa-yelp: fa-yelp
+fa fa-yen (alias): fa-yen (alias)
+fa fa-yoast: fa-yoast
+fa fa-youtube: fa-youtube
+fa fa-youtube-play: fa-youtube-play
